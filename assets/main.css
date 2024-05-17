@@ -1,5 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+* {
+    font-family: 'Plus Jakarta Sans', Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+
 body {
-    background-color: #111216;
+    background-color: #10352b;
 }
 
 #main {
@@ -8,7 +16,6 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 #links {
