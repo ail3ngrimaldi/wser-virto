@@ -1,0 +1,10 @@
+/Users/ailenrgrimaldi/Desktop/wser-virto/target/debug/deps/libthread_local-e7a10a1ebd9d72f8.rmeta: /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/lib.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/cached.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/thread_id.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/unreachable.rs
+
+/Users/ailenrgrimaldi/Desktop/wser-virto/target/debug/deps/libthread_local-e7a10a1ebd9d72f8.rlib: /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/lib.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/cached.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/thread_id.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/unreachable.rs
+
+/Users/ailenrgrimaldi/Desktop/wser-virto/target/debug/deps/thread_local-e7a10a1ebd9d72f8.d: /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/lib.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/cached.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/thread_id.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/unreachable.rs
+
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/lib.rs:
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/cached.rs:
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/thread_id.rs:
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/unreachable.rs:

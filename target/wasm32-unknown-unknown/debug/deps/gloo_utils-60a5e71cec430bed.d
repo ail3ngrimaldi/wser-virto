@@ -1,0 +1,10 @@
+/Users/ailenrgrimaldi/Desktop/wser-virto/target/wasm32-unknown-unknown/debug/deps/libgloo_utils-60a5e71cec430bed.rmeta: /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.1.7/src/lib.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.1.7/src/errors.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.1.7/src/iter.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.1.7/src/format/json.rs
+
+/Users/ailenrgrimaldi/Desktop/wser-virto/target/wasm32-unknown-unknown/debug/deps/libgloo_utils-60a5e71cec430bed.rlib: /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.1.7/src/lib.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.1.7/src/errors.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.1.7/src/iter.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.1.7/src/format/json.rs
+
+/Users/ailenrgrimaldi/Desktop/wser-virto/target/wasm32-unknown-unknown/debug/deps/gloo_utils-60a5e71cec430bed.d: /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.1.7/src/lib.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.1.7/src/errors.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.1.7/src/iter.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.1.7/src/format/json.rs
+
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.1.7/src/lib.rs:
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.1.7/src/errors.rs:
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.1.7/src/iter.rs:
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-utils-0.1.7/src/format/json.rs:

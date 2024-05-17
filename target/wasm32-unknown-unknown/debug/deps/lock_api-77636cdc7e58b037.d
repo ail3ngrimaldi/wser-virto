@@ -1,0 +1,10 @@
+/Users/ailenrgrimaldi/Desktop/wser-virto/target/wasm32-unknown-unknown/debug/deps/liblock_api-77636cdc7e58b037.rmeta: /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/lib.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/mutex.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/remutex.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/rwlock.rs
+
+/Users/ailenrgrimaldi/Desktop/wser-virto/target/wasm32-unknown-unknown/debug/deps/liblock_api-77636cdc7e58b037.rlib: /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/lib.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/mutex.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/remutex.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/rwlock.rs
+
+/Users/ailenrgrimaldi/Desktop/wser-virto/target/wasm32-unknown-unknown/debug/deps/lock_api-77636cdc7e58b037.d: /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/lib.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/mutex.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/remutex.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/rwlock.rs
+
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/lib.rs:
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/mutex.rs:
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/remutex.rs:
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/rwlock.rs:

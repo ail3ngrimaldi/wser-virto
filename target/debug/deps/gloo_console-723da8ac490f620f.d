@@ -1,0 +1,10 @@
+/Users/ailenrgrimaldi/Desktop/wser-virto/target/debug/deps/libgloo_console-723da8ac490f620f.rmeta: /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/lib.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/console_dbg.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/counter.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/externs.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/macros.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/timer.rs
+
+/Users/ailenrgrimaldi/Desktop/wser-virto/target/debug/deps/gloo_console-723da8ac490f620f.d: /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/lib.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/console_dbg.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/counter.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/externs.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/macros.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/timer.rs
+
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/lib.rs:
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/console_dbg.rs:
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/counter.rs:
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/externs.rs:
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/macros.rs:
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-console-0.2.3/src/timer.rs:

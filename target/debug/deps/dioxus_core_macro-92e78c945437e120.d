@@ -1,0 +1,9 @@
+/Users/ailenrgrimaldi/Desktop/wser-virto/target/debug/deps/libdioxus_core_macro-92e78c945437e120.dylib: /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/lib.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/component.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/props/mod.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/utils.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/../README.md
+
+/Users/ailenrgrimaldi/Desktop/wser-virto/target/debug/deps/dioxus_core_macro-92e78c945437e120.d: /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/lib.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/component.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/props/mod.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/utils.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/../README.md
+
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/lib.rs:
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/component.rs:
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/props/mod.rs:
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/utils.rs:
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/dioxus-core-macro-0.5.1/src/../README.md:

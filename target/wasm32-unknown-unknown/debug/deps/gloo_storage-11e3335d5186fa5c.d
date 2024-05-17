@@ -1,0 +1,10 @@
+/Users/ailenrgrimaldi/Desktop/wser-virto/target/wasm32-unknown-unknown/debug/deps/libgloo_storage-11e3335d5186fa5c.rmeta: /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/lib.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/errors.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/local_storage.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/session_storage.rs
+
+/Users/ailenrgrimaldi/Desktop/wser-virto/target/wasm32-unknown-unknown/debug/deps/libgloo_storage-11e3335d5186fa5c.rlib: /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/lib.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/errors.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/local_storage.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/session_storage.rs
+
+/Users/ailenrgrimaldi/Desktop/wser-virto/target/wasm32-unknown-unknown/debug/deps/gloo_storage-11e3335d5186fa5c.d: /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/lib.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/errors.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/local_storage.rs /Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/session_storage.rs
+
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/lib.rs:
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/errors.rs:
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/local_storage.rs:
+/Users/ailenrgrimaldi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-storage-0.2.2/src/session_storage.rs:
