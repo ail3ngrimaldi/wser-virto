@@ -3,45 +3,78 @@
 
 * {
     font-family: 'Plus Jakarta Sans', Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
     box-sizing: border-box;
 }
 
 body {
-    background-color: #10352b;
-}
-
-#main {
-    margin: 0;
+    background-color: #d5ecd7;
+    color: #10352b;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
-#links {
-    width: 400px;
-    text-align: left;
-    font-size: x-large;
-    color: white;
+svg { display: block; align-self: center;}
+
+h1 {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 500;
+}
+
+#main {
+    border-radius: 40px;
+    background-color: #fff;
+    margin: 0 auto;
+    padding: 24px;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    text-align: center;
 }
 
-#links a {
-    color: white;
-    text-decoration: none;
-    margin-top: 20px;
-    margin: 10px;
-    border: white 1px solid;
-    border-radius: 5px;
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+#main label {
+    text-align: left;
+}
+
+#main input {
     padding: 10px;
+    border: none;
+    border-radius: 36px;
 }
 
-#links a:hover {
-    background-color: #1f1f1f;
+.button {
+    font-weight: 500;
+    line-height: 20px;
+    padding: 12px 10px;
+    transition: opacity 0.2s ease-out, background-color 0.2s ease-out;
     cursor: pointer;
+    border-radius: 36px;
+    color: white;
 }
 
-#header {
-    max-width: 1200px;
+.button--primary {
+    border: none;
+    background: #0D0D12;
+    box-shadow: 0px 0px 0px 1px #5e5e6e, 0px 1px 2px 0px rgba(17, 17, 20, 0.4);
+}
+
+.button--secondary {
+    border: none;
+    color: var(--text-loud);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(193, 199, 208, 0.02) 100%),
+        var(--primary-white, #fff);
+    box-shadow: 0px 0px 0px 1px #5e5e6e, 0px 1px 2px 0px rgba(17, 17, 20, 0.4);
+}
+
+.logo {
+    margin-top: 12px;
 }
