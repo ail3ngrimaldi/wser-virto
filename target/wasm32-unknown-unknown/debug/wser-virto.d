@@ -1,1 +1,1 @@
-/Users/ailenrgrimaldi/Desktop/wser-virto/target/wasm32-unknown-unknown/debug/wser-virto.wasm: /Users/ailenrgrimaldi/Desktop/wser-virto/src/main.rs
+/Users/ailenrgrimaldi/Desktop/wser-virto/target/wasm32-unknown-unknown/debug/wser-virto.wasm: /Users/ailenrgrimaldi/Desktop/wser-virto/src/icons/icon.rs /Users/ailenrgrimaldi/Desktop/wser-virto/src/icons/mod.rs /Users/ailenrgrimaldi/Desktop/wser-virto/src/icons/virto.rs /Users/ailenrgrimaldi/Desktop/wser-virto/src/main.rs
